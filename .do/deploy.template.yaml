@@ -6,4 +6,4 @@ spec:
    http_port: 80
    git:
      branch: master
-     repo_clone_url: https://github.com/creativefisher/aspnetcoresample.git
+     repo_clone_url: https://github.com/johnandrewoehler/aspnetcoresample.git
